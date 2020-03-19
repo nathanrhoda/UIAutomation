@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UICore", "UICore\UICore.csproj", "{9E7C8A34-50FC-4CAC-9A59-CAC1DF3FB2EC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UITest", "UITest\UITest.csproj", "{4C4F53A0-2CE9-46CA-A99F-9E66872CF215}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E7C8A34-50FC-4CAC-9A59-CAC1DF3FB2EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E7C8A34-50FC-4CAC-9A59-CAC1DF3FB2EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E7C8A34-50FC-4CAC-9A59-CAC1DF3FB2EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E7C8A34-50FC-4CAC-9A59-CAC1DF3FB2EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C4F53A0-2CE9-46CA-A99F-9E66872CF215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4F53A0-2CE9-46CA-A99F-9E66872CF215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4F53A0-2CE9-46CA-A99F-9E66872CF215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4F53A0-2CE9-46CA-A99F-9E66872CF215}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8778AADD-EA34-441C-BEA6-CD6B6D48E692}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\ws\UITest\UITestDemo\UITestDemo\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ws\UITest\UITestDemo\UITestDemo\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ws\UITest\UITestDemo\UITestDemo\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ws\UITest\UITestDemo\UITestDemo\bin\Debug\netcoreapp2.2\UITestDemo.deps.json
+C:\ws\UITest\UITestDemo\UITestDemo\bin\Debug\netcoreapp2.2\UITestDemo.runtimeconfig.json
+C:\ws\UITest\UITestDemo\UITestDemo\bin\Debug\netcoreapp2.2\UITestDemo.runtimeconfig.dev.json
+C:\ws\UITest\UITestDemo\UITestDemo\bin\Debug\netcoreapp2.2\UITestDemo.dll
+C:\ws\UITest\UITestDemo\UITestDemo\bin\Debug\netcoreapp2.2\UITestDemo.pdb
+C:\ws\UITest\UITestDemo\UITestDemo\bin\Debug\netcoreapp2.2\UICore.dll
+C:\ws\UITest\UITestDemo\UITestDemo\bin\Debug\netcoreapp2.2\UICore.pdb
+C:\ws\UITest\UITestDemo\UITestDemo\obj\Debug\netcoreapp2.2\UITestDemo.csprojAssemblyReference.cache
+C:\ws\UITest\UITestDemo\UITestDemo\obj\Debug\netcoreapp2.2\UITestDemo.csproj.CoreCompileInputs.cache
+C:\ws\UITest\UITestDemo\UITestDemo\obj\Debug\netcoreapp2.2\UITestDemo.AssemblyInfoInputs.cache
+C:\ws\UITest\UITestDemo\UITestDemo\obj\Debug\netcoreapp2.2\UITestDemo.AssemblyInfo.cs
+C:\ws\UITest\UITestDemo\UITestDemo\obj\Debug\netcoreapp2.2\UITestDemo.csproj.CopyComplete
+C:\ws\UITest\UITestDemo\UITestDemo\obj\Debug\netcoreapp2.2\UITestDemo.dll
+C:\ws\UITest\UITestDemo\UITestDemo\obj\Debug\netcoreapp2.2\UITestDemo.pdb

@@ -1,0 +1,9 @@
+C:\ws\UITest\UITestDemo\UICore\bin\Debug\netcoreapp2.2\UICore.deps.json
+C:\ws\UITest\UITestDemo\UICore\bin\Debug\netcoreapp2.2\UICore.dll
+C:\ws\UITest\UITestDemo\UICore\bin\Debug\netcoreapp2.2\UICore.pdb
+C:\ws\UITest\UITestDemo\UICore\obj\Debug\netcoreapp2.2\UICore.csprojAssemblyReference.cache
+C:\ws\UITest\UITestDemo\UICore\obj\Debug\netcoreapp2.2\UICore.csproj.CoreCompileInputs.cache
+C:\ws\UITest\UITestDemo\UICore\obj\Debug\netcoreapp2.2\UICore.AssemblyInfoInputs.cache
+C:\ws\UITest\UITestDemo\UICore\obj\Debug\netcoreapp2.2\UICore.AssemblyInfo.cs
+C:\ws\UITest\UITestDemo\UICore\obj\Debug\netcoreapp2.2\UICore.dll
+C:\ws\UITest\UITestDemo\UICore\obj\Debug\netcoreapp2.2\UICore.pdb
